@@ -15,7 +15,7 @@ O objetivo principal do projeto é demonstrar como integrar uma aplicação Andr
    - No terminal, navegue até o diretório onde deseja armazenar o projeto e execute o seguinte comando:
 
      ```gradle
-     git clone https://github.com/sophiagodoy/calculo-imc.git
+     git@github.com:sophiagodoy/SuperTasks.git
      ```
 
 ## 2️⃣ Passo 2: Criar um Projeto no Firebase
