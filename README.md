@@ -1,10 +1,11 @@
 # 💖 SuperTasks
 
+📌 Este aplicativo tem caráter **educacional** e foi desenvolvido com foco no **aprendizado prático**.
+
 Este é um app Android desenvolvido utilizando Jetpack Compose, Firebase e o Android Studio, onde o usuário preenche um formulário simples inserindo seu nome e uma breve descrição. As informações fornecidas são enviadas e armazenadas diretamente no banco de dados Firestore do Firebase.
 
 O objetivo principal do projeto é demonstrar como integrar uma aplicação Android ao Firebase, permitindo que dados sejam salvos remotamente de forma rápida e segura, e possam ser acessados facilmente a qualquer momento. Esta aplicação representa a minha segunda experiência conectando interfaces desenvolvidas com Jetpack Compose ao banco de dados em nuvem Firebase Firestore.
 
-📌 Este app é simples e tem como foco principal o **aprendizado prático**.
 ---
 
 # 🛠️ Passo a Passo para Rodar o Projeto com Firebase
