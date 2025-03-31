@@ -4,6 +4,7 @@ Este é um app Android desenvolvido utilizando Jetpack Compose, Firebase e o And
 
 O objetivo principal do projeto é demonstrar como integrar uma aplicação Android ao Firebase, permitindo que dados sejam salvos remotamente de forma rápida e segura, e possam ser acessados facilmente a qualquer momento. Esta aplicação representa a minha segunda experiência conectando interfaces desenvolvidas com Jetpack Compose ao banco de dados em nuvem Firebase Firestore.
 
+📌 Este app é simples e tem como foco principal o **aprendizado prático**.
 ---
 
 # 🛠️ Passo a Passo para Rodar o Projeto com Firebase
